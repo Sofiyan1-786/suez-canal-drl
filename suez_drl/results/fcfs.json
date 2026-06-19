@@ -1,0 +1,253 @@
+{
+  "method": "FCFS",
+  "n_episodes": 30,
+  "disruption": false,
+  "mean_total_delay_h": 428.8,
+  "std_total_delay_h": 80.79207881964666,
+  "mean_total_capital_cost_usd": 140545.00281896716,
+  "std_total_capital_cost_usd": 64497.05108389913,
+  "mean_total_ships_served": 35.666666666666664,
+  "mean_total_cargo_value_usd": 1624189775.443743,
+  "raw_per_episode": [
+    {
+      "total_delay_h": 420.0,
+      "total_capital_cost_usd": 177811.69232527673,
+      "total_ships_served": 35,
+      "total_cargo_value_usd": 2229026999.9721484,
+      "n_steps": 14,
+      "reward": 0.0
+    },
+    {
+      "total_delay_h": 456.0,
+      "total_capital_cost_usd": 74933.13959760248,
+      "total_ships_served": 38,
+      "total_cargo_value_usd": 840079458.4347187,
+      "n_steps": 14,
+      "reward": 0.0
+    },
+    {
+      "total_delay_h": 348.0,
+      "total_capital_cost_usd": 85259.2238258451,
+      "total_ships_served": 29,
+      "total_cargo_value_usd": 1245359757.0767953,
+      "n_steps": 14,
+      "reward": 0.0
+    },
+    {
+      "total_delay_h": 312.0,
+      "total_capital_cost_usd": 192373.98754239635,
+      "total_ships_served": 26,
+      "total_cargo_value_usd": 2136447974.0888605,
+      "n_steps": 14,
+      "reward": 0.0
+    },
+    {
+      "total_delay_h": 588.0,
+      "total_capital_cost_usd": 139943.12624263062,
+      "total_ships_served": 49,
+      "total_cargo_value_usd": 1327727030.9401677,
+      "n_steps": 14,
+      "reward": 0.0
+    },
+    {
+      "total_delay_h": 384.0,
+      "total_capital_cost_usd": 99082.05472512798,
+      "total_ships_served": 32,
+      "total_cargo_value_usd": 1491927182.1736016,
+      "n_steps": 14,
+      "reward": 0.0
+    },
+    {
+      "total_delay_h": 408.0,
+      "total_capital_cost_usd": 87436.3802855038,
+      "total_ships_served": 34,
+      "total_cargo_value_usd": 1081727110.6330428,
+      "n_steps": 14,
+      "reward": 0.0
+    },
+    {
+      "total_delay_h": 432.0,
+      "total_capital_cost_usd": 147063.23609250408,
+      "total_ships_served": 36,
+      "total_cargo_value_usd": 1460953003.8329022,
+      "n_steps": 14,
+      "reward": 0.0
+    },
+    {
+      "total_delay_h": 324.0,
+      "total_capital_cost_usd": 27871.158837018294,
+      "total_ships_served": 27,
+      "total_cargo_value_usd": 442974714.8711453,
+      "n_steps": 14,
+      "reward": 0.0
+    },
+    {
+      "total_delay_h": 636.0,
+      "total_capital_cost_usd": 153137.16824428263,
+      "total_ships_served": 52,
+      "total_cargo_value_usd": 1718065805.542242,
+      "n_steps": 14,
+      "reward": 0.0
+    },
+    {
+      "total_delay_h": 396.0,
+      "total_capital_cost_usd": 160065.2710275741,
+      "total_ships_served": 33,
+      "total_cargo_value_usd": 2507879036.123595,
+      "n_steps": 14,
+      "reward": 0.0
+    },
+    {
+      "total_delay_h": 360.0,
+      "total_capital_cost_usd": 65483.57091323954,
+      "total_ships_served": 30,
+      "total_cargo_value_usd": 686294083.4872034,
+      "n_steps": 14,
+      "reward": 0.0
+    },
+    {
+      "total_delay_h": 348.0,
+      "total_capital_cost_usd": 51586.297677351984,
+      "total_ships_served": 29,
+      "total_cargo_value_usd": 875004025.573188,
+      "n_steps": 14,
+      "reward": 0.0
+    },
+    {
+      "total_delay_h": 360.0,
+      "total_capital_cost_usd": 163453.34768139018,
+      "total_ships_served": 30,
+      "total_cargo_value_usd": 1834306822.4005332,
+      "n_steps": 14,
+      "reward": 0.0
+    },
+    {
+      "total_delay_h": 384.0,
+      "total_capital_cost_usd": 142284.77867346499,
+      "total_ships_served": 32,
+      "total_cargo_value_usd": 1647295720.840984,
+      "n_steps": 14,
+      "reward": 0.0
+    },
+    {
+      "total_delay_h": 360.0,
+      "total_capital_cost_usd": 84580.05360525717,
+      "total_ships_served": 30,
+      "total_cargo_value_usd": 979399369.6549035,
+      "n_steps": 14,
+      "reward": 0.0
+    },
+    {
+      "total_delay_h": 468.0,
+      "total_capital_cost_usd": 150516.4028834269,
+      "total_ships_served": 39,
+      "total_cargo_value_usd": 1641918855.7651184,
+      "n_steps": 14,
+      "reward": 0.0
+    },
+    {
+      "total_delay_h": 516.0,
+      "total_capital_cost_usd": 282742.1401026302,
+      "total_ships_served": 43,
+      "total_cargo_value_usd": 3137823078.3329678,
+      "n_steps": 14,
+      "reward": 0.0
+    },
+    {
+      "total_delay_h": 396.0,
+      "total_capital_cost_usd": 97869.05301457594,
+      "total_ships_served": 33,
+      "total_cargo_value_usd": 1115953907.2912648,
+      "n_steps": 14,
+      "reward": 0.0
+    },
+    {
+      "total_delay_h": 444.0,
+      "total_capital_cost_usd": 216425.32328270416,
+      "total_ships_served": 37,
+      "total_cargo_value_usd": 1974396176.8631854,
+      "n_steps": 14,
+      "reward": 0.0
+    },
+    {
+      "total_delay_h": 600.0,
+      "total_capital_cost_usd": 163057.2976349702,
+      "total_ships_served": 49,
+      "total_cargo_value_usd": 1683441546.692125,
+      "n_steps": 14,
+      "reward": 0.0
+    },
+    {
+      "total_delay_h": 348.0,
+      "total_capital_cost_usd": 246292.04625802016,
+      "total_ships_served": 29,
+      "total_cargo_value_usd": 2504112873.4368963,
+      "n_steps": 14,
+      "reward": 0.0
+    },
+    {
+      "total_delay_h": 336.0,
+      "total_capital_cost_usd": 210208.70168961748,
+      "total_ships_served": 28,
+      "total_cargo_value_usd": 2292548214.0945263,
+      "n_steps": 14,
+      "reward": 0.0
+    },
+    {
+      "total_delay_h": 444.0,
+      "total_capital_cost_usd": 90576.95993977618,
+      "total_ships_served": 37,
+      "total_cargo_value_usd": 1184091033.4560947,
+      "n_steps": 14,
+      "reward": 0.0
+    },
+    {
+      "total_delay_h": 468.0,
+      "total_capital_cost_usd": 87115.9666357251,
+      "total_ships_served": 39,
+      "total_cargo_value_usd": 920918737.1150117,
+      "n_steps": 14,
+      "reward": 0.0
+    },
+    {
+      "total_delay_h": 492.0,
+      "total_capital_cost_usd": 198784.09231810083,
+      "total_ships_served": 41,
+      "total_cargo_value_usd": 2747799927.539107,
+      "n_steps": 14,
+      "reward": 0.0
+    },
+    {
+      "total_delay_h": 444.0,
+      "total_capital_cost_usd": 191141.7449511731,
+      "total_ships_served": 37,
+      "total_cargo_value_usd": 1664753479.8395352,
+      "n_steps": 14,
+      "reward": 0.0
+    },
+    {
+      "total_delay_h": 516.0,
+      "total_capital_cost_usd": 150609.60440791474,
+      "total_ships_served": 43,
+      "total_cargo_value_usd": 2284393612.5741725,
+      "n_steps": 14,
+      "reward": 0.0
+    },
+    {
+      "total_delay_h": 420.0,
+      "total_capital_cost_usd": 33290.27742294784,
+      "total_ships_served": 35,
+      "total_cargo_value_usd": 378934097.57768154,
+      "n_steps": 14,
+      "reward": 0.0
+    },
+    {
+      "total_delay_h": 456.0,
+      "total_capital_cost_usd": 245355.98673096547,
+      "total_ships_served": 38,
+      "total_cargo_value_usd": 2690139627.088558,
+      "n_steps": 14,
+      "reward": 0.0
+    }
+  ]
+}

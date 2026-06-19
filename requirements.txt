@@ -1,0 +1,8 @@
+streamlit==1.52.2
+plotly==6.5.1
+pandas==2.3.3
+numpy==2.2.6
+gymnasium==1.2.3
+sb3-contrib==2.8.0
+stable-baselines3==2.8.0
+pulp==3.3.0
