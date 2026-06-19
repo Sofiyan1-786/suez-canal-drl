@@ -1,5 +1,0 @@
-Method,Mean Capital Cost (USD),Mean Total Delay (h),Mean Ships Served,Savings vs FCFS
-FCFS,"$149,991",445.9,37.1,+0.0%
-MILP-CBC,"$11,262",41.5,40.0,+92.5%
-GA,"$149,983",445.9,37.1,+0.0%
-PPO,"$150,975",445.9,37.0,-0.7%
